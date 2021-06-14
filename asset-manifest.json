@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/RoboHash-Browser/static/css/main.8aa70652.chunk.css",
+    "main.js": "/RoboHash-Browser/static/js/main.fa5f6015.chunk.js",
+    "main.js.map": "/RoboHash-Browser/static/js/main.fa5f6015.chunk.js.map",
+    "runtime-main.js": "/RoboHash-Browser/static/js/runtime-main.c19a5970.js",
+    "runtime-main.js.map": "/RoboHash-Browser/static/js/runtime-main.c19a5970.js.map",
+    "static/js/2.3b753619.chunk.js": "/RoboHash-Browser/static/js/2.3b753619.chunk.js",
+    "static/js/2.3b753619.chunk.js.map": "/RoboHash-Browser/static/js/2.3b753619.chunk.js.map",
+    "index.html": "/RoboHash-Browser/index.html",
+    "static/css/main.8aa70652.chunk.css.map": "/RoboHash-Browser/static/css/main.8aa70652.chunk.css.map",
+    "static/js/2.3b753619.chunk.js.LICENSE.txt": "/RoboHash-Browser/static/js/2.3b753619.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c19a5970.js",
+    "static/js/2.3b753619.chunk.js",
+    "static/css/main.8aa70652.chunk.css",
+    "static/js/main.fa5f6015.chunk.js"
+  ]
+}
